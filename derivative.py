@@ -20,10 +20,10 @@ y_cube = cube(x)
 plt.plot(x,y_cube)
 plt.show()
 
-def expenential(x):
+def exponential(x):
     return np.exp(x)
-y_expenential = expenential(x)
-plt.plot(x,y_expenential)
+y_exponential = exponential(x)
+plt.plot(x,y_exponential)
 plt.show()
 
 def reverse(x):
@@ -32,8 +32,8 @@ y_reverse = reverse(x)
 plt.plot(x,y_reverse)
 plt.show()
 
-def logarithme(x):
+def logarithm(x):
     return 1/x
-y_logarithme = logarithme(x)
-plt.plot(x,y_logarithme)
+y_logarithm = logarithm(x)
+plt.plot(x,y_logarithm)
 plt.show()
